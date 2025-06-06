@@ -1,5 +1,3 @@
-# Write your solution here
-
 limit = int(input("Upper limit: "))
 base = int(input("Base: "))
 counter = 1

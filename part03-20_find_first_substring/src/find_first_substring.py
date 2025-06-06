@@ -1,4 +1,3 @@
-
 word = input("Please type in a word: ")
 character = input("Please type in a character: ")
 

@@ -1,5 +1,3 @@
-# Write your solution here
-
 number = float(input("Please type in a temperature: "))
 
 integer_part = int(number)

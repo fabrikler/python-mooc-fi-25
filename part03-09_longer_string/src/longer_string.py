@@ -1,5 +1,3 @@
-# Write your solution here
-
 input_string1 = input("Please type in string 1: ")
 input_string2 = input("Please type in string 2: ")
 

@@ -1,4 +1,3 @@
-
 while True:
     factor1 = 1
     factor2 = 1

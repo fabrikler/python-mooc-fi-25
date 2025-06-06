@@ -1,5 +1,3 @@
-# Write your solution here
-
 age = int(input("What is your age?"))
 
 if age >= 0 and age <= 4:

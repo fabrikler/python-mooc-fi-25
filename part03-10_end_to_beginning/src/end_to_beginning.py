@@ -1,4 +1,3 @@
-
 input_string = input("Please type in a string")
 index = -1
 

@@ -1,5 +1,3 @@
-# Write your solution here
-
 points = int(input("How many points [0-100]:"))
 
 if points < 0 or points > 100:

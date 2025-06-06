@@ -1,5 +1,3 @@
-# Write your solution here
-
 new_string = input("Please type in a string: ")
 
 while len(new_string) >= 1:

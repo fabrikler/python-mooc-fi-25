@@ -1,5 +1,3 @@
-# Write your solution here
-
 word = input("Please type in a word")
 
 length = len(word)

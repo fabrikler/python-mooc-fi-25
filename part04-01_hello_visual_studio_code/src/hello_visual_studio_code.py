@@ -1,5 +1,3 @@
-
-
 while True:
 
     editor = input("Editor: ")

@@ -1,5 +1,3 @@
-# Write your solution here
-
 name = input("Please type in your name:")
 
 if name == "Huey" or name == "Dewey" or name == "Louie":

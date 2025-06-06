@@ -1,4 +1,3 @@
-
 def hash_square(length):
     phrase = "#" * length
 

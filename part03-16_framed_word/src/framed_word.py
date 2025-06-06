@@ -1,4 +1,3 @@
-
 word = input('Word: ')
 space = int((28 - len(word)) / 2)
 

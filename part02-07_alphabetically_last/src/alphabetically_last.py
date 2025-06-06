@@ -1,5 +1,3 @@
-# Write your solution here
-
 word1 = input("Please type in the 1st word: ")
 word2 = input("Please type in the 2nd word: ")
 

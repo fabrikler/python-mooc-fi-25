@@ -1,5 +1,3 @@
-# Write your solution here
-
 gift = float(input("Value of gift: "))
 
 

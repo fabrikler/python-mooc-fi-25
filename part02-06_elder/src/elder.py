@@ -1,5 +1,3 @@
-# Write your solution here
-
 print("Person 1:")
 
 person1 = input("Name: ")

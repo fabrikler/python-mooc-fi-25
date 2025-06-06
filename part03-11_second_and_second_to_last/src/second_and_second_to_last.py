@@ -1,5 +1,3 @@
-# Write your solution here
-
 input_string = input("Please type in a string: ")
 
 if input_string[1] == input_string[-2]:

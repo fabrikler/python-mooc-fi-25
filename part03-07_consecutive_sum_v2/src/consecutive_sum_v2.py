@@ -1,4 +1,3 @@
-
 limit = int(input("Limit: "))
 counter = 1
 summe = 0

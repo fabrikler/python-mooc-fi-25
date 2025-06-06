@@ -1,5 +1,3 @@
-# Write your solution here
-
 year = int(input("Please type in a year: "))
 
 if year % 100 == 0 and year % 400 == 0:

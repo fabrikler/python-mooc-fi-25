@@ -1,9 +1,15 @@
-# Copy here code of line function from previous exercise
+def line(number, symbol):
+    if symbol == "":
+        symbol = "*"
+    result = number * symbol[0]
+    print(result)
 
 def triangle(size):
-    # You should call function line here with proper parameters
-    line(4, "#")
+    i = 1
+    while i <= size:
+        line(i, "#")
+        i += 1
 
-# You can test your function by calling it within the following block
 if __name__ == "__main__":
-    triangle(5)
+    triangle(10)
+
