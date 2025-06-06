@@ -1,0 +1,23 @@
+# Python-Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# TMC/MOOC-Files (TestMyCode)
+tmcdata/
+.tmcrc
+
+# VS Code & IDE
+.vscode/
+.idea/
+
+# OS-Data (Windows/macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.env
+*.env
+
+.ipynb_checkpoints/
